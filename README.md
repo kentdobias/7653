@@ -11,4 +11,5 @@ homework, but make sure to give credit where credit is due!
 | elser/HM_converge.c | C        | Instructions in file | 
 | elser/HM_betascan.c | C        | Instructions in file | 
 | elser/HM_time.c | C        | Instructions in file | 
-| kentdobias/hadamard_mcmc.hpp | C++ | Only header supplied |
+| kentdobias/hadamard_mcmc.hpp | C++ | Generic header |
+| kentdobias/hadamard_time.cpp | C++ | clang++ -O2 hadamard_time.cpp -o hadamard_time |
