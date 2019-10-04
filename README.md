@@ -11,5 +11,9 @@ homework, but make sure to give credit where credit is due!
 | elser/HM_converge.c | C        | Instructions in file | 
 | elser/HM_betascan.c | C        | Instructions in file | 
 | elser/HM_time.c | C        | Instructions in file | 
-| kentdobias/hadamard_mcmc.hpp | C++ | Generic header |
+| hathcock/hathcock_main.cpp | C++ | |
 | kentdobias/hadamard_time.cpp | C++ | clang++ -O2 hadamard_time.cpp -o hadamard_time |
+| kiely/main.cpp | C++ ||
+| mandaiya/Untitled-1.c | C ||
+| rosenberg/givensRotation_speedTest.cpp | C++ | g++ givensRotation_speedTest.cpp -o outputName -std=c++11 |
+| su/main.cpp | C++ | make |
