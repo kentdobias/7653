@@ -9,4 +9,6 @@ homework, but make sure to give credit where credit is due!
 | File                | Language | Compilation |
 |---------------------|----------|-------------|
 | elser/HM_converge.c | C        | Instructions in file | 
+| elser/HM_betascan.c | C        | Instructions in file | 
+| elser/HM_time.c | C        | Instructions in file | 
 | kentdobias/hadamard_mcmc.hpp | C++ | Only header supplied |
